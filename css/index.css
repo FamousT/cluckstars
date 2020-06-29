@@ -1,0 +1,139 @@
+
+.container .row .poster{
+    width:100%;
+}
+
+.container .row .poster img{
+    width:100%;
+    /* height: 100%; */
+}
+
+.workHome .workHomeHead .h2{
+    justify-content: center;
+    text-align: center;
+    color: black;
+}
+
+.container-fluid .row .navbar-brand img{
+    height:100px;
+    width:140px;
+}
+
+
+
+.workHomeButton {
+    border-radius:30px;
+    width: 200px;
+    font-size:18px;
+    /* margin:30px; */
+    /* margin-left:460px; */
+    height:50px;
+    background: rgb(114, 113, 74);;
+    color: white;
+    align-items: center;
+  
+  }
+  
+  .workHomeButton:hover {
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    border: 2px solid #768d9c;
+  
+  }
+  
+
+.footerImageHome{
+    display: center;
+    /* margin-left: 44%; */
+    margin-right: auto;
+    /* width: 50%; */
+    padding-top:80px;
+    padding-bottom:40px;
+    justify-items: center;
+}
+
+  .footerImageHome img{
+    width:140px;
+    height:100px;
+  }
+
+  .page-footer{
+      background-color: rgb(73, 72, 52);
+      color: rgb(226, 224, 224);
+      justify-content: center;
+  }
+
+.footer-copyright{
+    background-color: rgb(49, 47, 22) ;
+}
+
+.hover-image, .c2:hover .normal-image {
+    display: none;
+  }
+  
+  .c2:hover .hover-image {
+    display: inline;
+  }
+
+  
+
+  .ftco-section .container .row .aboutHome img{
+    width:50%;
+    margin-top:20px;
+    margin-right:20%;
+}
+
+  .ftco-section .container .row .aboutAbout img{
+    width:100%;
+    margin-top:30px;
+    /* margin-right:20%; */
+}
+
+
+.characters .bodyCharacters img{
+  width: 100%;
+}
+ 
+.characters .bodyCharacters .row{
+  margin-bottom: 30px;
+}
+
+
+.company{
+  margin-top: 100px;
+  margin-bottom: 50px;
+  /* background-color: rgb(114, 113, 74); */
+}
+
+.company .row{
+  padding-top:50px;
+  padding-bottom: 50px;
+}
+
+.company .container img{
+  /* width:100px; */
+  height:50px;
+
+}
+
+
+
+.ml6 {
+  position: relative;
+  font-weight: 900;
+  font-size: 3.3em;
+}
+
+.ml6 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+
+.ml6 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
