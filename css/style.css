@@ -9256,14 +9256,15 @@ textarea.form-control {
       font-weight: 500;
       color: #000000; }
     .dbox p a {
-      color: #95adbe; }
+      color: #858484; }
   .dbox .icon {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background: #95adbe;
+    background: rgb(114, 113, 74);
     margin: 0 auto;
-    margin-bottom: 20px; }
+    margin-bottom: 20px;
+   }
     .dbox .icon span {
       font-size: 30px;
       color: #fff; }
